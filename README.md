@@ -1,18 +1,19 @@
-### Hi I'm **Songhee Baek** 👋
+### Hi, Welcome to my space! 💛
 
-######About Me
+#### I'm Songhee Baek 
 
-<!--
-**100SongH/100SongH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+###### About Me! 😄
+- 👩‍🎓 I'm a student at Seoultech.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 My major is Computer Science and Engineering.
+
+- 💚 I like ...
+   * Meeting friends
+   * Going to cafes
+   * Walking at night
+   * Listening to music
+  
+- 🎈 Interest
+   * Android
+   
